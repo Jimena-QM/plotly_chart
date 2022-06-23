@@ -1,0 +1,19 @@
+body {
+    color: black;
+}
+
+.jumbotron {
+    background-image: url("images/navel_image.jpg");
+    /*image: https://steptohealth.com/the-belly-button-harbors-large-amounts-of-bacteria/  */
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+.frmt {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.img {
+    opacity: .2
+}
